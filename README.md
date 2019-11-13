@@ -1,5 +1,3 @@
-# mockup-14-may-responsive-without-mediaquery
-Responsive without Media Query
+# Mockups May 14
 
-
-https://awais-malik716.github.io/mockup-14-may-responsive-without-mediaquery/
+Check the mockups folder and create a pixel perfect clone!
